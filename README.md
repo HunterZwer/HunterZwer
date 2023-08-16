@@ -1,6 +1,15 @@
 # Hello There
-### I'm HunterZwer
+#### I'm HunterZwer AI Developer from Uzbekistan 🇺🇿
 
+## A little bit about me
+
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+*  I am passionate with AI🧠⚙️
+  
+*  Currently working on Computer Vision problems👀⚙️
+
+___
 ## Technology Stack
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -18,15 +27,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
--I am passionate with AI🧠⚙️
--Work as AI developer👨🏻‍💻
--Currently working on Computer Vision problems👀⚙️
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-
-
-
+___
 ### 📢 Find me elsewhere
 <p align="left">
   <a href="https://www.codechef.com/users/hunterzwer">
