@@ -1,6 +1,4 @@
-# Hello There
-#### I'm HunterZwer AI Developer from Uzbekistan 🇺🇿
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=900&size=50&duration=3000&pause=800&color=FF2BFD&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Hello+there+;I'm+Hunter+Zwer;AI+Developer;%3C3)](https://git.io/typing-svg)
 ## A little bit about me
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
