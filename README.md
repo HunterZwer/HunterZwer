@@ -1,4 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=900&size=50&duration=3000&pause=800&color=FF2BFD&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Hello+there+;I'm+Hunter+Zwer;AI+Developer;%3C3)](https://git.io/typing-svg)
+
+
+
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/hunter-zwer-409a0a287/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://t.me/hunter_zwer"><img height="30" src="https://cdn.icon-icons.com/icons2/2232/PNG/512/telegram_logo_icon_134592.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:hunterzwer@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
+
+
 ## A little bit about me
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
