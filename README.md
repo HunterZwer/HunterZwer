@@ -15,9 +15,8 @@
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-*  I am passionate with AI🧠⚙️
+*  I am passionate with machine learning🧠⚙️
   
-*  Currently working on Computer Vision problems👀⚙️
 
 ___
 ## Technology Stack
